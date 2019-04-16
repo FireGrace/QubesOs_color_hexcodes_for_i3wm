@@ -7,6 +7,7 @@ Some of the Colorcodes, based upon Qubes design documentation. Since the nature 
 * We take color codes from QubesOs style guide.
 * Apply tint and shading where nessesary, to make in 3wm navigation easier
 * Not using Qubes grayscale for fonts in i3 containers(windows)
+* For indicator color we use complementary one to background. It changes with states too.
 * In favour of readability, we apply font colors, where they contrast more.
 
 # Font color to color label #
@@ -44,3 +45,10 @@ Black and Gray are already in use.
 
 __The solution is to use white colors from QubesOs grayscale, in order to make dom0 look different__
 
+3iwm have interesting feature, of indication where the window will be opened. It activates when you create a split container.
+Unfortunately we have many colors to draw, and indicator will be unseen with some color, no matter what we choose.
+So no one solid color will fix the issue. The most we can do, is to make indicator contrast with container(windows) colors.
+
+__The solutions is to use complementary colors for each state the windows is in.__
+__Other way is to ask i3wm devs to implement different drawing system for indicators, where they will appear as dotted line,
+drawn upon background color. Or path this in Qubes repo.__
