@@ -1,56 +1,56 @@
 client.background       dom0            #c4c4c4
-client.focused          dom0    #f7f7f7 #f5f5f5 #000000 #f6f6f6 #f5f5f5
-client.focused_inactive dom0    #f7f7f7 #dcdcdc #191919 #f6f6f6 #dcdcdc
-client.unfocused        dom0    #f7f7f7 #c4c4c4 #323232 #f6f6f6 #c4c4c4
-client.urgent           dom0    #bd2727 #e79e27 #333333 #f5f5f5 #f5f5f5
+client.focused          dom0    #f7f7f7 #f5f5f5 #000000 #f6f6f6 
+client.focused_inactive dom0    #f7f7f7 #dcdcdc #191919 #f6f6f6 
+client.unfocused        dom0    #f7f7f7 #c4c4c4 #323232 #f6f6f6 
+client.urgent           dom0    #bd2727 #e79e27 #333333 #f5f5f5 
 
 client.background       red             #841b1b
-client.focused          red     #d06767 #bd2727 #ffffff #ca5252 #bd2727
-client.focused_inactive red     #d06767 #971f1f #e5e5e5 #ca5252 #971f1f
-client.unfocused        red     #d06767 #841b1b #cccccc #ca5252 #841b1b
-client.urgent           red     #bd2727 #e79e27 #333333 #bd2727 #bd2727
+client.focused          red     #d06767 #bd2727 #ffffff #ca5252 
+client.focused_inactive red     #d06767 #971f1f #e5e5e5 #ca5252 
+client.unfocused        red     #d06767 #841b1b #cccccc #ca5252 
+client.urgent           red     #bd2727 #e79e27 #333333 #bd2727 
 
 client.background       orange          #a16e1b
-client.focused          orange  #eebb67 #e79e27 #000000 #ebb152 #e79e27
-client.focused_inactive orange  #eebb67 #b87e1f #191919 #ebb152 #b87e1f
-client.unfocused        orange  #eebb67 #a16e1b #323232 #ebb152 #a16e1b
-client.urgent           orange  #bd2727 #e79e27 #333333 #e79e27 #e79e27
+client.focused          orange  #eebb67 #e79e27 #000000 #ebb152 
+client.focused_inactive orange  #eebb67 #b87e1f #191919 #ebb152 
+client.unfocused        orange  #eebb67 #a16e1b #323232 #ebb152 
+client.urgent           orange  #bd2727 #e79e27 #333333 #e79e27 
 
 client.background       yellow          #a1a023
-client.focused          yellow  #eeec6f #e7e532 #000000 #ebea5a #e7e532
-client.focused_inactive yellow  #eeec6f #b8b728 #191919 #ebea5a #b8b728
-client.unfocused        yellow  #eeec6f #a1a023 #323232 #ebea5a #a1a023
-client.urgent           yellow  #bd2727 #e79e27 #333333 #e7e532 #e7e532
+client.focused          yellow  #eeec6f #e7e532 #000000 #ebea5a 
+client.focused_inactive yellow  #eeec6f #b8b728 #191919 #ebea5a 
+client.unfocused        yellow  #eeec6f #a1a023 #323232 #ebea5a 
+client.urgent           yellow  #bd2727 #e79e27 #333333 #e7e532 
 
 client.background       green           #3e972c
-client.focused          green   #8be379 #5ad840 #000000 #7adf66 #5ad840
-client.focused_inactive green   #8be379 #48ac33 #191919 #7adf66 #48ac33
-client.unfocused        green   #8be379 #3e972c #323232 #7adf66 #3e972c
-client.urgent           green   #bd2727 #e79e27 #333333 #5ad840 #5ad840
+client.focused          green   #8be379 #5ad840 #000000 #7adf66 
+client.focused_inactive green   #8be379 #48ac33 #191919 #7adf66 
+client.unfocused        green   #8be379 #3e972c #323232 #7adf66 
+client.urgent           green   #bd2727 #e79e27 #333333 #5ad840 
 
 client.background       gray            #636368
-client.focused          gray    #afafb4 #8e8e95 #ffffff #a4a4aa #8e8e95
-client.focused_inactive gray    #afafb4 #717177 #e5e5e5 #a4a4aa #717177
-client.unfocused        gray    #afafb4 #636368 #cccccc #a4a4aa #636368
-client.urgent           gray    #bd2727 #e79e27 #333333 #8e8e95 #8e8e95
+client.focused          gray    #afafb4 #8e8e95 #ffffff #a4a4aa 
+client.focused_inactive gray    #afafb4 #717177 #e5e5e5 #a4a4aa 
+client.unfocused        gray    #afafb4 #636368 #cccccc #a4a4aa 
+client.urgent           gray    #bd2727 #e79e27 #333333 #8e8e95 
 
 client.background       blue            #275197
-client.focused          blue    #739de3 #3874d8 #ffffff #5f8fdf #3874d8
-client.focused_inactive blue    #739de3 #2c5cac #e5e5e5 #5f8fdf #2c5cac
-client.unfocused        blue    #739de3 #275197 #cccccc #5f8fdf #275197
-client.urgent           blue    #bd2727 #e79e27 #333333 #3874d8 #3874d8
+client.focused          blue    #739de3 #3874d8 #ffffff #5f8fdf 
+client.focused_inactive blue    #739de3 #2c5cac #e5e5e5 #5f8fdf 
+client.unfocused        blue    #739de3 #275197 #cccccc #5f8fdf 
+client.urgent           blue    #bd2727 #e79e27 #333333 #3874d8 
 
 client.background       purple          #6f276f
-client.focused          purple  #bb73bb #9f389f #ffffff #b25fb2 #9f389f
-client.focused_inactive purple  #bb73bb #7f2c7f #e5e5e5 #b25fb2 #7f2c7f
-client.unfocused        purple  #bb73bb #6f276f #cccccc #b25fb2 #6f276f
-client.urgent           purple  #bd2727 #e79e27 #333333 #9f389f #9f389f
+client.focused          purple  #bb73bb #9f389f #ffffff #b25fb2 
+client.focused_inactive purple  #bb73bb #7f2c7f #e5e5e5 #b25fb2 
+client.unfocused        purple  #bb73bb #6f276f #cccccc #b25fb2 
+client.urgent           purple  #bd2727 #e79e27 #333333 #9f389f 
 
 client.background       black           #141414
-client.focused          black   #5b5b5b #333333 #ffffff #474747 #333333
-client.focused_inactive black   #5b5b5b #1e1e1e #e5e5e5 #474747 #1e1e1e
-client.unfocused        black   #5b5b5b #141414 #cccccc #474747 #141414
-client.urgent           black   #bd2727 #e79e27 #333333 #333333 #333333
+client.focused          black   #5b5b5b #333333 #ffffff #474747 
+client.focused_inactive black   #5b5b5b #1e1e1e #e5e5e5 #474747 
+client.unfocused        black   #5b5b5b #141414 #cccccc #474747 
+client.urgent           black   #bd2727 #e79e27 #333333 #333333 
 
 
 bindsym $mod+d exec --no-startup-id i3-dmenu-desktop --dmenu="dmenu -nb #d2d2d2 -nf #333333 -sb #63a0ff -sf #f5f5f5"
